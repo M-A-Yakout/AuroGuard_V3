@@ -1,7 +1,3 @@
-Certainly! Here's a **modernized version** of your `README.md` for **AuroGuard\_V3**, with clean layout, consistent Markdown styling, and verified references, all suitable for a professional GitHub repository:
-
----
-
 # 🚀 AuroGuard\_V3
 
 **Secure Your Future with Intelligent Space Defense**
